@@ -3,3 +3,4 @@ Lockdown help in spending time with the family.
 edit the text in first file.
 
 add merge one.
+add merge from git command.
